@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.twk.restservice.RestServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 68.321 s - in com.twk.restservice.RestServiceApplicationTests
